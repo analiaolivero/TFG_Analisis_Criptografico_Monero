@@ -5,7 +5,7 @@ Este repositorio contiene los cuadernos de python (Jupyter Notebooks) desarrolla
 El objetivo de este código es ilustrar los conceptos matemáticos y algorítmicos que fundamentan la privacidad de la criptomoneda Monero.
 
 * **Autora:** Analía Olivero Betancor
-* **Institución:** Universidad Politécnica de Madrid (UPM)
+* **Institución:** Universidad Politécnica de Madrid
 
 ## Estructura del repositorio
 
